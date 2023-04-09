@@ -51,7 +51,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 <p align="center">
 
-![unnamed (2)](https://termux.xyz/wp-content/uploads/2022/11/Free-Fire-Phishing.webp)
+![unnamed (2)](https://github.com/OnlineHacKing/FreeFire-Phishing/releases/download/2%2C8/logo.jpg)
 
 </p>
 
